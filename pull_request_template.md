@@ -1,12 +1,12 @@
-# Validate [TOKEN_SYMBOL_HERE](https://solscan.io/token/MINT_ADDRES_HERE)
+# Validate [nugget](https://solscan.io/token/G5fGhkeAJixPMiJa5WGNkPLWRzvSCUDckK4CurK3FpG7)
 
 ## Attestations (Please provide links):
-- Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://twitter.com/YOUR_ACCOUNT_NAME_HERE/status/YOUR_TWEET_ID_HERE
+- Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://twitter.com/omeganuggetsol/status/1765607291858944479
 - Coingecko/ CMC URL (If available): https://www.coingecko.com/en/coins/YOUR_ID_HERE
 
 ## Validation (Please check off boxes):
 - [ ] The metadata provided in the PR matches what is on-chain (Mandatory)
-- [ ] Does not duplicate the symbol of another token on Jupiter's strict list (If not, review will be delayed)
+- [x] Does not duplicate the symbol of another token on Jupiter's strict list (If not, review will be delayed)
 - [ ] Is Listed on Coingecko / CMC (Optional, but helpful for reviewers)  
 
 ## Acknowledgement (Please check off boxes)
